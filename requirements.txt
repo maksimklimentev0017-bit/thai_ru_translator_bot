@@ -1,0 +1,3 @@
+python-telegram-bot==20.3
+openai==0.27.8
+gTTS==2.5.1

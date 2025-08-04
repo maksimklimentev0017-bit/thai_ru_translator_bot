@@ -1,0 +1,1 @@
+# thai_ru_translator_bot
